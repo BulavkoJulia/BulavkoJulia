@@ -54,6 +54,7 @@
 ### 💎 Тестовые артефакты: 💎
 - [Тестирование веб-приложения](https://github.com/BulavkoJulia/Web)
 - [REST и SOAP тестирование API](https://github.com/BulavkoJulia/API/blob/main/README.md)
-- [Работа с базами данных](https://github.com/BulavkoJulia/database/blob/main/README.md)
 - [Тестирование мобильных приложений](https://github.com/BulavkoJulia/Mobileapp-testing/tree/main)
+- [Работа с базами данных](https://github.com/BulavkoJulia/database/blob/main/README.md)
+- [Работа с перехватом трафика](https://github.com/BulavkoJulia/Proxy)
  
