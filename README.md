@@ -57,4 +57,5 @@
 - [Тестирование мобильных приложений](https://github.com/BulavkoJulia/Mobileapp-testing/tree/main)
 - [Работа с базами данных](https://github.com/BulavkoJulia/database/blob/main/README.md)
 - [Работа с перехватом трафика](https://github.com/BulavkoJulia/Proxy)
+- [Работа с git и bash](https://github.com/BulavkoJulia/Git_Bash)
  
