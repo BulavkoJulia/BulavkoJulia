@@ -53,4 +53,5 @@
 
 ### 💎 Тестовые артефакты: 💎
 [Тестирование веб-приложения](https://github.com/BulavkoJulia/Web)
+[REST и SOAP тестирование API](https://github.com/BulavkoJulia/API/blob/main/README.md)
  
