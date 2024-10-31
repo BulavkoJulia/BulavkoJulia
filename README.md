@@ -14,8 +14,8 @@
 
 
 
-- 💌 Связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/julia-bulavko-85b054322/)
-    [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:julieee2405@gmail.com)
+- 💌 Связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/julia-bulavko/)
+    [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:julia.bulavko24.05@gmail.com)
 
 ---
 
