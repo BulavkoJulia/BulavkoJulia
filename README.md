@@ -12,6 +12,8 @@
 
 Решительно настроена углублять свои знания и самосовершенствоваться в профессии.
 
+[Мое резюме](https://github.com/BulavkoJulia/My-CV)
+
 
 
 - 💌 Связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/julia-bulavko/)
